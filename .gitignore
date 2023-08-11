@@ -1,1 +1,5 @@
 db.sqlite3
+Django_install/__pycache__/
+test_app/__pycache__/
+test_app/migrations/__pycache__/
+env/
